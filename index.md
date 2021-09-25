@@ -27,7 +27,7 @@ My current favorite class is [CSE 110](https://canvas.ucsd.edu/courses/30736).
 4. MATH 20C
 
 ## TODOs
--[x] Lab 1
--[ ] Lab 2
--[ ] Lab 3
--[ ] etc
+- [x] Lab 1
+- [ ] Lab 2
+- [ ] Lab 3
+- [ ] etc
