@@ -1,5 +1,8 @@
 ### Melissa Ignacio's User Page
 
+My favorite programming language is Java because it is the first programming 
+language I learned.
+
 <!--
 **melissaignacio/MelissaIgnacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
