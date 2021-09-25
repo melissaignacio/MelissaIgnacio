@@ -1,6 +1,7 @@
-# **Melissa Ignacio**
+# **[Melissa Ignacio](Melissa_Ignacio.png)**
 ###### *B.S. Computer Science*
 ###### mignacio@ucsd.edu
+
 
 
 ## [Quote](https://www.devtopics.com/101-more-great-computer-quotes/)
