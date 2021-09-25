@@ -4,7 +4,7 @@
 
 
 
-## [Quote](#refrences)
+## [Quote](https://melissaignacio.github.io/MelissaIgnacio/#refrences)
 Edsger W. Dijkstra said:
 > Computer Science is no more about computers than astronomy is about telescopes.
 
