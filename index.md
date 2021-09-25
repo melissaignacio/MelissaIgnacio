@@ -15,7 +15,7 @@ System.out.println("Hello World!)
 
 My current favorite class is [CSE 110](https://canvas.ucsd.edu/courses/30736). 
 
-## [Skills] Programming Languages
+## [Skills](https://en.wikipedia.org/wiki/Programming_language)
 * Java
 * C/C++
 * Python
