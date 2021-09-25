@@ -33,5 +33,10 @@ My current favorite class is [CSE 110](https://canvas.ucsd.edu/courses/30736).
 - [ ] Lab 3
 - [ ] etc
 
+## Favorite Memes
+![Meme #1](download.jpg)
+![Meme #2](download-1.jpg)
+![Meme #3](download-2.jpg)
+
 ## Refrences
 https://www.devtopics.com/101-more-great-computer-quotes/
