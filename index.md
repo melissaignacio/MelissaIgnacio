@@ -4,8 +4,8 @@
 
 
 
-## [Quote](https://www.devtopics.com/101-more-great-computer-quotes/)
-Edsger W. Dijkstra said:
+## [Quote](#Edsger-W.-Dijkstra-said:)
+# Edsger W. Dijkstra said:
 > Computer Science is no more about computers than astronomy is about telescopes.
 
 ## Fun Facts
