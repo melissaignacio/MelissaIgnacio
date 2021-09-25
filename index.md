@@ -4,8 +4,8 @@
 
 
 
-## [Quote](#Edsger-W.-Dijkstra-said:)
-###### Edsger W. Dijkstra said:
+## [Quote](#Refrences)
+Edsger W. Dijkstra said:
 > Computer Science is no more about computers than astronomy is about telescopes.
 
 ## Fun Facts
@@ -32,3 +32,6 @@ My current favorite class is [CSE 110](https://canvas.ucsd.edu/courses/30736).
 - [ ] Lab 2
 - [ ] Lab 3
 - [ ] etc
+
+## Refrences
+https://www.devtopics.com/101-more-great-computer-quotes/
