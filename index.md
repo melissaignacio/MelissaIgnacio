@@ -2,7 +2,6 @@
 ###### *B.S. Computer Science*
 ###### mignacio@ucsd.edu
 
-[hello](Screedownload-1.jpg)
 
 ## [Quote](https://melissaignacio.github.io/MelissaIgnacio/#refrences)
 Edsger W. Dijkstra said:
